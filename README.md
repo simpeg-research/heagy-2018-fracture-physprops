@@ -2,7 +2,7 @@
 
 # A physical property model for a fractured volume of rock
 
-[![Build Status](https://travis-ci.org/simpeg-research/heagy-2018-fracture-physprops?branch=master)](https://travis-ci.org/simpeg-research/heagy-2018-fracture-physprops)
+[![Build Status](https://travis-ci.org/simpeg-research/heagy-2018-fracture-physprops.svg?branch=master)](https://travis-ci.org/simpeg-research/heagy-2018-fracture-physprops)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/simpeg-research/heagy-2018-fracture-physprops/master)
 [![Azure](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/simpeg-research/heagy-2018-fracture-physprops)
 [![License](https://img.shields.io/github/license/simpeg-research/heagy-2018-fracture-physprops.svg)](https://github.com/simpeg-research/heagy-2018-fracture-physprops/blob/master/LICENSE)
