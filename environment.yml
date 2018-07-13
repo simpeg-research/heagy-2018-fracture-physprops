@@ -1,0 +1,15 @@
+name: fracture-physprops-environment
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets>=0.6.0
+  - mkl
+  - pip:
+    - pymatsolver
+    - discretize
+    - git+https://github.com/simpeg/simpeg.git@scemt-extension

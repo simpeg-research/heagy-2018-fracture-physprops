@@ -17,14 +17,10 @@ of the thesis "Electromagnetic methods for imaging subsurface injections" by [Li
 
 ## Contents
 
-- [notebooks](notebooks): contains the notebooks used to generate figures in the paper
-    - [1_TDEM_Comparison_w_Commer](notebooks/1_TDEM_Comparison_w_Commer.ipynb): Figures 3 and 4
-    - [2_DC_Kaufman_infinite_well](notebooks/2_DC_Kaufman_infinite_well.ipynb): Figure 5
-    - [3_DC_Kaufman_finite_well](notebooks/3_DC_Kaufman_finite_well.ipynb): Figure 6
-    - [4_TDEM_current_plots](notebooks/4_TDEM_current_plots.ipynb): Figure 7
-    - [5_FDEM_following_Augustin_Fig3](notebooks/5_FDEM_following_Augustin_Fig3.ipynb): Figures 8 - 10
-    - [6_FDEM_Permeability](notebooks/6_FDEM_Permeability.ipynb): Figures 11 and 12
-    - [7_TDEM_Permeability](notebooks/7_TDEM_Permeability.ipynb): Figures 13 and 14
+- [notebooks](notebooks):
+    - [1_proppant_fluid_mixture.ipynb](/notebooks/1_proppant_fluid_mixture.ipynb)
+    - [2_emt_fractures.ipynb](/notebooks/2_emt_fractures.ipynb)
+    - [3_crosswell_survey.ipynb](/notebooks/3_crosswell_survey.ipynb)
 
 ## Usage
 
@@ -76,6 +72,10 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
 ## Issues
 
 If you run into problems or bugs, please let us know by [creating an issue](https://github.com/simpeg-research/heagy-2018-fracture-physprops/issues/new) in this repository.
+
+## Citation
+
+coming soon...
 
 ## License
 
