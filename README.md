@@ -1,4 +1,4 @@
-**[summary](#summary) | [contents](#contents) | [usage](#usage) | [running the notebooks](#running-the-notebooks) | [issues](#issues) | [citation](#citation) | [license](#license)**
+**[summary](#Summary) | [contents](#Contents) | [usage](#Usage) | [running the notebooks](#Running-the-notebooks) | [issues](#Issues) | [citation](#Citation) | [license](#License)**
 
 # A physical property model for a fractured volume of rock
 
