@@ -12,4 +12,4 @@ dependencies:
   - pip:
     - pymatsolver
     - discretize
-    - git+https://github.com/simpeg/simpeg.git@scemt-extension
+    - SimPEG
