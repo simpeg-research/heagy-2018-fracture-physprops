@@ -11,9 +11,14 @@
 ## Summary
 
 This repository contains the notebooks used to generate the examples shown in Chapter 2
-of the thesis "Electromagnetic methods for imaging subsurface injections" by [Lindsey J. Heagy](https://github.com/lheagy)
+of the thesis ["Electromagnetic methods for imaging subsurface injections"](https://github.com/lheagy/phd-thesis) by [Lindsey J. Heagy](https://github.com/lheagy). 
 
-<img src="figures/emt_spherical_particles.png" width=40% align="middle">
+In hydraulic a fracturing operation, fluid is injected into the reservoir to fracture the rock and provide pathways for hydrocarbons to flow. In order to keep the fracture pathways open, sand or ceramic particles, known as proppant are also injected. One of the unknowns in fracturing operations is where the proppant goes. If the proppant were electrically conductive (e.g. by coating it with graphite), then electromagnetic (EM) methods can be used to detect the proppant. The first step to examining the feasibility of using EM methods for delineating the propped region of the reservoir is construcing an electrical conductivity model that can be used for numerical simulations. 
+
+To estimate the conductivity of afractured volume of rock, 
+I use effective medium theory in two steps. First, I estimate the conductivity of a mixture of proppant and fluid and second, I estimate the conductivity of a fractured volume of rock. In the final notebook, I perform a simulation of cross-well electromagntic data to demonstrate feasibility of using electromagnetic methods for detecting a propped, fractured volume of rock. 
+
+<img src="https://raw.githubusercontent.com/lheagy/phd-thesis/master/thesis/figures/phys_prop_model/effective_medium_theory.png" width=60% align="middle">
 
 ## Contents
 
