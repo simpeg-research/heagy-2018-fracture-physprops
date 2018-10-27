@@ -1,4 +1,4 @@
-**[summary](#Summary) | [contents](#Contents) | [usage](#Usage) | [running the notebooks](#Running-the-notebooks) | [issues](#Issues) | [citation](#Citation) | [license](#License)**
+**[summary](#Summary) | [contents](#Contents) | [usage](#Usage) | [running the notebooks](#Running-the-notebooks) | [citation](#Citation) | [issues](#Issues) |  [license](#License)**
 
 # A physical property model for a fractured volume of rock
 
@@ -74,13 +74,13 @@ Each cell of code can be run with `shift + enter` or you can run the entire note
 
 For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/)
 
-## Issues
-
-If you run into problems or bugs, please let us know by [creating an issue](https://github.com/simpeg-research/heagy-2018-fracture-physprops/issues/new) in this repository.
-
 ## Citation
 
 coming soon...
+
+## Issues
+
+If you run into problems or bugs, please let us know by [creating an issue](https://github.com/simpeg-research/heagy-2018-fracture-physprops/issues/new) in this repository.
 
 ## License
 
