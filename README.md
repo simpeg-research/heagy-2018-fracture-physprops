@@ -76,7 +76,20 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
 
 ## Citation
 
-coming soon...
+Heagy, L. J. (2018). Electromagnetic methods for imaging subsurface injections (T). University of British Columbia. Retrieved from https://open.library.ubc.ca/collections/ubctheses/24/items/1.0374170
+
+```
+@phdthesis{Heagy_2018, 
+    series={Electronic Theses and Dissertations (ETDs) 2008+}, 
+    title={Electromagnetic methods for imaging subsurface injections}, 
+    url={https://open.library.ubc.ca/collections/ubctheses/24/items/1.0374170}, 
+    DOI={http://dx.doi.org/10.14288/1.0374170}, 
+    school={University of British Columbia}, 
+    author={Heagy, Lindsey J.}, 
+    year={2018}, 
+    collection={Electronic Theses and Dissertations (ETDs) 2008+}
+}
+```
 
 ## Issues
 
